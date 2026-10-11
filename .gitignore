@@ -1,0 +1,22 @@
+# Local editor / OS settings
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.workspace
+*.pdsbak
+
+# Build intermediates
+*.o
+*.elf
+*.map
+*.d
+*.lst
+*.eep
+*.log
+*.hex
+
+# Keep the prebuilt Intel HEX images needed by Proteus
+!event-groups/main.hex
+!pwm-queue-control/main.hex

@@ -1,0 +1,27 @@
+[
+  {
+    "source": "Colle_ERRADI_Mohamed_17_GMC2/EXERCICE1_COLLE/vedio_avec_explication/explication_code.mp4",
+    "output": "event-groups/videos/event_groups_code_explanation.mp4",
+    "original_bytes": 21446717
+  },
+  {
+    "source": "Colle_ERRADI_Mohamed_17_GMC2/EXERCICE1_COLLE/vedio_avec_explication/simulation_mode_OR.mp4",
+    "output": "event-groups/videos/event_groups_or_simulation.mp4",
+    "original_bytes": 11307313
+  },
+  {
+    "source": "Colle_ERRADI_Mohamed_17_GMC2/EXERCICE1_COLLE/vedio_avec_explication/simulation_mod_AND.mp4",
+    "output": "event-groups/videos/event_groups_and_simulation.mp4",
+    "original_bytes": 7568116
+  },
+  {
+    "source": "Colle_ERRADI_Mohamed_17_GMC2/EXERCICE2_COLLE/vedio_avec_explication/explication_du_code.mp4",
+    "output": "pwm-queue-control/videos/pwm_queue_code_explanation.mp4",
+    "original_bytes": 25088785
+  },
+  {
+    "source": "Colle_ERRADI_Mohamed_17_GMC2/EXERCICE2_COLLE/vedio_avec_explication/simulation.mp4",
+    "output": "pwm-queue-control/videos/pwm_queue_simulation.mp4",
+    "original_bytes": 12607634
+  }
+]
